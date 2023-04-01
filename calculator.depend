@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1671197807 source:c:\users\user\onedrive\desktop\fh\1. semester\prozd\zwischentest3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1671201407 source:c:\users\user\onedrive\fh\1. semester\prozd\zwischentests\zwischentest3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
